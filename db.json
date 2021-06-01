@@ -270,54 +270,7 @@
 		],
 		"productStock": false,
 		"productPrice": "116.562"
-	},
-	{
-		"productId": 1018,
-		"productCategory": "Category 1",
-		"productName": "Product 18",
-		"description": "campund treciletig antst thayt aratho onblindueneanghe beraie sshofed",
-		"images": [
-			{ "id": 1, "url": "https://picsum.photos/id/655/800/600.webp" },
-			{ "id": 2, "url": "https://picsum.photos/id/985/800/600.webp" },
-			{ "id": 3, "url": "https://picsum.photos/id/998/800/600.webp" },
-			{ "id": 4, "url": "https://picsum.photos/id/958/800/600.webp" },
-			{ "id": 5, "url": "https://picsum.photos/id/634/800/600.webp" },
-			{ "id": 6, "url": "https://picsum.photos/id/114/800/600.webp" }
-		],
-		"productStock": true,
-		"productPrice": "142.586"
-	},
-	{
-		"productId": 1019,
-		"productCategory": "Category 5",
-		"productName": "Product 19",
-		"description": "oflere alesald stehine watas onwons arheatheanger atrbucrtr twntho",
-		"images": [
-			{ "id": 1, "url": "https://picsum.photos/id/281/800/600.webp" },
-			{ "id": 2, "url": "https://picsum.photos/id/183/800/600.webp" },
-			{ "id": 3, "url": "https://picsum.photos/id/861/800/600.webp" },
-			{ "id": 4, "url": "https://picsum.photos/id/993/800/600.webp" },
-			{ "id": 5, "url": "https://picsum.photos/id/151/800/600.webp" },
-			{ "id": 6, "url": "https://picsum.photos/id/479/800/600.webp" }
-		],
-		"productStock": false,
-		"productPrice": "53.861"
-	},
-	{
-		"productId": 1020,
-		"productCategory": "Category 3",
-		"productName": "Product 20",
-		"description": "twidby arturn tinssig teondind hehicole aseay igintsofon ferabeate",
-		"images": [
-			{ "id": 1, "url": "https://picsum.photos/id/188/800/600.webp" },
-			{ "id": 2, "url": "https://picsum.photos/id/9/800/600.webp" },
-			{ "id": 3, "url": "https://picsum.photos/id/359/800/600.webp" },
-			{ "id": 4, "url": "https://picsum.photos/id/922/800/600.webp" },
-			{ "id": 5, "url": "https://picsum.photos/id/153/800/600.webp" },
-			{ "id": 6, "url": "https://picsum.photos/id/925/800/600.webp" }
-		],
-		"productStock": true,
-		"productPrice": "76.028"
 	}
+	
 ]
 }
