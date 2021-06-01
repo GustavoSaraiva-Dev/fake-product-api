@@ -238,38 +238,6 @@
 		],
 		"productStock": false,
 		"productPrice": "204.704"
-	},
-	{
-		"productId": 1016,
-		"productCategory": "Category 4",
-		"productName": "Product 16",
-		"description": "whelle stueron andcore thenwheco aninde beeded hicacor stontusthallld",
-		"images": [
-			{ "id": 1, "url": "https://picsum.photos/id/178/800/600.webp" },
-			{ "id": 2, "url": "https://picsum.photos/id/319/800/600.webp" },
-			{ "id": 3, "url": "https://picsum.photos/id/513/800/600.webp" },
-			{ "id": 4, "url": "https://picsum.photos/id/527/800/600.webp" },
-			{ "id": 5, "url": "https://picsum.photos/id/488/800/600.webp" },
-			{ "id": 6, "url": "https://picsum.photos/id/580/800/600.webp" }
-		],
-		"productStock": true,
-		"productPrice": "191.299"
-	},
-	{
-		"productId": 1017,
-		"productCategory": "Category 2",
-		"productName": "Product 17",
-		"description": "sentt thelee ileds oacarthis tamaracoushed ondebe baristhettor henst",
-		"images": [
-			{ "id": 1, "url": "https://picsum.photos/id/563/800/600.webp" },
-			{ "id": 2, "url": "https://picsum.photos/id/814/800/600.webp" },
-			{ "id": 3, "url": "https://picsum.photos/id/286/800/600.webp" },
-			{ "id": 4, "url": "https://picsum.photos/id/342/800/600.webp" },
-			{ "id": 5, "url": "https://picsum.photos/id/750/800/600.webp" },
-			{ "id": 6, "url": "https://picsum.photos/id/712/800/600.webp" }
-		],
-		"productStock": false,
-		"productPrice": "116.562"
 	}
 	
 ]
